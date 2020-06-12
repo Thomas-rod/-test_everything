@@ -23,6 +23,13 @@
   box-shadow: 0 5px 15px 5px rgba(0,0,0,0.2);
   border-radius: 15px;
   transition: transform 0.2s ease;
+}
+.ais-Hits-item {
+  box-shadow: 0 5px 15px 5px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  text-align:center;
+  font-size: 2rem;
+  cursor:pointer;
   &:hover {
     transform:translateY(-10px);
   }
